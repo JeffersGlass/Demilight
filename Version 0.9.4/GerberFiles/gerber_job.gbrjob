@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-30T21:15:51Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Arduino_Pro_DMX_Mover_Shield_v9_4"
+        },
+        "Owner": "Glass Jeffrey <glass.jeffrey@gmail.com>",
+        "Size": {
+            "X": 35.849488,
+            "Y": 34.525991
+        }
+    }
+}
